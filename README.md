@@ -32,3 +32,10 @@ The Ask:
 • J&J wants to ensure they have the right organizational structure in place to stay competitive
 • Run a diagnostics on the firms talent organization (Tech focused) and identify opportunities to drive
 efficiency
+
+# 6. Cricket Wireless
+Background:
+Cricket Wireless is a telecommunications services provider that is struggling to retain customers despite increasing their marketing spend significantly. They are hoping to better understand the profile of their customers to enable more personalized and targeted retention actions.
+The Ask:
+• Run diagnostics on Cricket Wireless’s most recent customer data
+• Provide insight into potential customer segments, customer treatment strategy, and churnreduction opportunities
